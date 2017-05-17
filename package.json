@@ -1,0 +1,25 @@
+{
+  "name": "merz_pro",
+  "version": "1.0.0",
+  "description": "MDM Merz Protractor Automation Testing",
+  "main": "conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "Miller",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-allure-reporter": "^1.0.1",
+    "jasmine-core": "^2.6.1",
+    "jasmine-reporters": "^2.2.1",
+    "jasmine-spec-reporter": "^2.7.0",
+    "protractor": "^5.1.1",
+    "protractor-console": "^2.0.1",
+    "protractor-jasmine2-html-reporter": "0.0.6",
+    "selenium-webdriver": "^3.4.0",
+    "winston": "^2.3.1"
+  }
+}

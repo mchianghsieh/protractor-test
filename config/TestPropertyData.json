@@ -1,0 +1,12 @@
+{
+
+   "TestSiteURL":"http://10.153.1.98:9445/login?redirect=/dataview#/dataview/documents/1544731",
+
+   "UserCredential":{
+   
+      "username":"miller",
+      "password":"password"
+   }
+
+
+}
